@@ -1,4 +1,4 @@
-FROM alpine:3.20.0
+FROM alpine:3.20.1
 
 # renovate: datasource=github-tags depName=lefcha/imapfilter
 ARG IMAPFILTER_VERSION=v2.8.2
